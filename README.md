@@ -2,7 +2,6 @@
 
 ## I'm a Student, Designer and Developer!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to earn some experience
 - 🥅 2020 Goals: Contribute more to Open Source projects
