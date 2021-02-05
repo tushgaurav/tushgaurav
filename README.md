@@ -21,7 +21,7 @@
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][htmlmozilla]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssmozilla]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
-[<img align="left" alt="C#" width="26px" src="https://commons.wikimedia.org/wiki/File:C_Sharp_logo.svg" />][sass]
+[<img align="left" alt="C#" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffavpng.com%2Fpng_view%2Fjavascript-icon-c-programming-language-logo-microsoft-visual-studio-net-framework-png%2F3cKHRGpP&psig=AOvVaw3UYheEGFpYYyoQ7bXu_D9y&ust=1612624050323000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDnn_KC0-4CFQAAAAAdAAAAABAD" />][c#]
 
 <!-- [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist] -->
 <!-- [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist] -->
@@ -57,3 +57,4 @@
 [github]: https://github.com/
 [cssmozilla]: https://developer.mozilla.org/en-US/docs/Archive/CSS3list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [sass]: https://sass-lang.com/
+[c#]: https://docs.microsoft.com/en-us/dotnet/csharp/
