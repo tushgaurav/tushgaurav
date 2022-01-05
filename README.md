@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to earn some experience
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Master the blockchain
 - ⚡ Fun fact: I love to play single player games
 
 ### Connect with me:
