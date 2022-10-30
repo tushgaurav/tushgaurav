@@ -32,7 +32,7 @@
 
 [vscode]: https://code.visualstudio.com/
 [htmlmozilla]: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
-[website]: https://tushgaurav.online
+[website]: https://tushgaurav.in
 [linkedin]: https://www.linkedin.com/in/tushgaurav/
 [git]: https://git-scm.com/list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [github]: https://github.com/
